@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 body #root{
-    height: 200vh;
+    height: 100%;
     background-color: #212121;
     font-family: 'Poppins', sans-serif;
     color: white;
