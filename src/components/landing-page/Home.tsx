@@ -618,7 +618,7 @@ const Home = () => {
         <hr className="border-dark-blue-gray my-12" />
         <div className="flex justify-center mt-10">
           <a
-            href="/path/to/your/resume.pdf"
+            href="src\assets\resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center bg-vibrant-teal text-navy-blue font-bold py-3 px-8 rounded-lg shadow-lg hover:bg-teal-500 hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 focus:outline-none focus:ring-4 focus:ring-vibrant-teal focus:ring-opacity-50"
